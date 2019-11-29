@@ -11,6 +11,6 @@ title: Example
 
 # News
 
-- Some event
+- Some new events I wanted to add. Ta daa!
 - Another exciting event
 - More news
